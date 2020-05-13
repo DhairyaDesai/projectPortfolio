@@ -1,5 +1,6 @@
 # projectPortfolio
-A showcase of projects built over the course of my college career!
+A showcase of projects built during the course of my college career! More to be added soon.
+
 1. CSE374_GeneticAlgo4Solar : this is a algorithms project where I've developed a genetic algorithm for the optimization of 
                               solar angles based on the net energy efficiency of the angles. 
 
